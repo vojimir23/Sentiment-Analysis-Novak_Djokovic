@@ -10,16 +10,16 @@ List of accounts: ['Tennis', 'ITFTennis', 'TennisChannel', 'Wimbledon', 'usta', 
 
 Below is overall sentiment about Djokovic.
 
-<img src="/graphs/overallSentiment.png" alt="Overall Sentiment" width="500" height="300">
+<img src="/graphs/overallSentiment.png" alt="Overall Sentiment" width="500" height="350">
 
 Even though those accounts are official ones, and they usually have a neutral or positive tone in their posts, we could notice some spikes in negative sentiment around specific dates.
 For example, in June 2020 (20-06) Djokovic got coronavirus and also organized an Adria tour in the Balkan region. Those two things gave him a spike in negative sentiment in those 4 years. 
 Also, there was a spike in negative sentiment in September 2020 (20-09) when he was disqualified from the US Open. 
 Below is a graph showing percentages of sentiments per month.
 
-<img src="/graphs/percentage.png" alt="perc" width="800" height="500">
+<img src="/graphs/percentage.png" alt="perc" width="900" height="550">
 
 In the end, if we look at the graph below, it is an overly positive sentiment, where we notice spikes in the number of tweets around major tournaments.
 The graph shows counts of sentiments per month.
 
-<img src="/graphs/count.png" alt="perc" width="800" height="500" style="background-color:white">
+<img src="/graphs/count.png" alt="perc" width="900" height="550" style="background-color:white">
